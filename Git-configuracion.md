@@ -13,7 +13,7 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
 ```
 <div align="center">
-  <img src="Captura.png">
+  <img src="Captura23.png">
 </div>
 
 Podemos ver los datos de configuración creados si escribimos lo siguiente:
@@ -21,7 +21,7 @@ Podemos ver los datos de configuración creados si escribimos lo siguiente:
 git config --list
 ```
 <div align="center">
-  <img src="Captura.png">
+  <img src="Captura24.png">
 </div>
 
 Con esto queda finalizada la configuración básica de nuestro Git.
