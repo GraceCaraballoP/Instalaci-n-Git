@@ -8,4 +8,5 @@ Repositorio dedicado a describir la instalación, configuración básica y manip
 - [Instalación de la versión por defecto](Git-defecto.md)  
 - [Instalación de una versión concreta](Git-version.md)   
 - [Configuración de Git](Git-configuracion.md)   
-- [Manipulación de Git](Git-manipulacion.md)
+- [Manipulación básica de Git](Git-manipulacion.md)
+- [Manipulación avanzada de Git](Git-manipulacion-avanzada.md)
