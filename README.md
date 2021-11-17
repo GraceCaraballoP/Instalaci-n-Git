@@ -1,4 +1,4 @@
-# Instalación de Git
+# Git
 <div align="center">
   <img src="logo.png" width="400px">
 </div>
